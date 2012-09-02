@@ -8,18 +8,10 @@ Current app version: 1.2.
 
 For using this you need:
 
-<<<<<<< HEAD
 - 1. Export your tiled map to *.json file. File -> Export -> Select *.json file format
 - 2. Choose your tileset image used in Tiled editor
 - 3. Open link with installed converter
 - 4. Upload your files. You will get link to new generated project file. Download it and open in Construct.
-=======
-1. Export your tiled map to *.json file. 
-File -> Export -> Select *.json file format
-2. Choose your tileset image used in Tiled editor
-3. Open link with installed converter
-4. Upload your files. You will get link to new generated project file. Download it and open in Construct.
->>>>>>> 503856805f909590148f986e29d91b97c00f6f16
 
 Tileset converts as a new sprite object with animation frames.
 
@@ -27,12 +19,6 @@ Changelog:
 --------------------------
 version 1.1:
 
-<<<<<<< HEAD
 - 1. now parsing all tyleset layers
 - 2. added layer opacity
 - 3. Layers has names from Tiled map
-=======
-1. now parsing all tyleset layers
-2. added layer opacity
-3. Layers has names from Tiled map
->>>>>>> 503856805f909590148f986e29d91b97c00f6f16
